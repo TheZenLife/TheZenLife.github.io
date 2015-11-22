@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://thezenlife.github.io
+title: thezenlife
+tagline: "No snowflake ever falls in the wrong place"
+description: Living the zen life
+paginate: 5
